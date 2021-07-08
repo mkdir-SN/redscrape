@@ -42,5 +42,5 @@ Open `auth.py` then:
 * Input a Reddit username for `to_username`
 
 Open `scrape.py` then:
-* Uncomment the code blocks which are reserved for PMing users. 
+* Uncomment the code blocks which are reserved for PMing users
 
