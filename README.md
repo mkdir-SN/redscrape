@@ -8,6 +8,7 @@ I figured I should make this scraper applicable to any other subreddits which ha
 ## Setup
 1. [Install PRAW](https://praw.readthedocs.io/en/stable/getting_started/installation.html)
 2. [OAuth setup](https://redditclient.readthedocs.io/en/latest/oauth/)
+3. Input the credentials you received from following OAuth setup into `auth.py`
 
 ## Scraping
 Open the directory you cloned this repo into.
