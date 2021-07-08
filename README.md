@@ -44,3 +44,6 @@ Open `auth.py` then:
 Open `scrape.py` then:
 * Uncomment the code blocks which are reserved for PMing users
 
+## Questions, comments, concerns
+Please feel free to PM or chat u/cauliflowercats!
+
