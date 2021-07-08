@@ -1,0 +1,1 @@
+python3 main.py -subreddit mechmarket -contains "Geekark BoW" "PBT Pastel" "IFK Cafe" "Infinikey Cafe" -flair "Selling"
