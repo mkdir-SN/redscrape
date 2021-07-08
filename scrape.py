@@ -38,7 +38,7 @@ def get():
     reddit = praw.Reddit(client_id=auth.client_id, client_secret=auth.client_secret, user_agent=auth.user_agent)
 
     """
-    Uncomment the following line if you'd like to PM the matches.
+    Uncomment the following code block if you'd like to PM the matches to a Reddit account.
 
     reddit = praw.Reddit(client_id=auth.client_id, client_secret=auth.client_secret, user_agent=auth.user_agent, username=auth.username, password=auth.password)
     """
