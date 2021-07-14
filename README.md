@@ -1,7 +1,7 @@
-# scraping-cauliflowers
+# redscrape
 
 ## Greetings
-Hello! I made a pretty simple scraper for r/mechmarket, since I was tired of manually searching for specific posts throughout the day. 
+Hello! I made a pretty simple scraper for r/mechmarket, since I was tired of manually searching for specific posts throughout the day.
 
 I figured I should make this scraper applicable to any other subreddits which have a selling format similar to r/mechmarket. To be more specific, subreddits which contain posts that have [<country_code>-<state_code>] formatting. And so you have it!
 
@@ -44,7 +44,3 @@ Open `auth.py` then:
 
 Open `scrape.py` then:
 * Uncomment the code blocks which are reserved for PMing users
-
-## Questions, comments, concerns
-Please feel free to PM or chat u/cauliflowercats!
-
